@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm JohnPaul 🦦
+
+I am currently a Senior Computer Science Student.I very much enjoy fostering new ideas and trying to come up with sensible solutions and approaches to broadly relevant problems.
+
+* 📱  I’m currently working on UPay and UCM on Android, a Universal Mobile Payment App that works anywhere with forecasting analysis using Machine Learning.
+
+* 📫 How to reach me: johnpaulrazzouk@gmail.com
 
 <!--
 **JohnRazzouk/JohnRazzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
