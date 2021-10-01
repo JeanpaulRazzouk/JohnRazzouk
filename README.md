@@ -1,4 +1,4 @@
-### Hi, I'm JohnPaul 🦦
+### Hi, I'm Jeanpaul 🦦
 
 I am currently a Senior Computer Science Student.I very much enjoy fostering new ideas and trying to come up with sensible solutions and approaches to broadly relevant problems.
 
