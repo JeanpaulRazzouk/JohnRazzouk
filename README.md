@@ -4,7 +4,7 @@ I am currently a Senior Computer Science Student.I very much enjoy fostering new
 
 * 📱  I’m currently working on UPay and UCM on Android, a Universal Mobile Payment App that works anywhere with forecasting analysis using Machine Learning.
 
-* 📫 How to reach me: johnpaulrazzouk@gmail.com
+* 📫 How to reach me: jeanpaul@jeanpaulrazzouk.com
 
 <!--
 **JohnRazzouk/JohnRazzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
