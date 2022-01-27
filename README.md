@@ -1,6 +1,6 @@
 ### Hey, I'm Jeanpaul 🦦
 
-I am Computer Science .I very much enjoy fostering new ideas and trying to come up with sensible solutions and approaches to broadly relevant problems.
+I am Computer Scientist.I very much enjoy fostering new ideas and trying to come up with sensible solutions and approaches to broadly relevant problems.
 
 * 📱 Developed UPay (V 1.0) app on Android, a Universal Mobile Payment App that works anywhere with forecasting analysis using Machine Learning.
 * 🖥 Developed UCM tablet-optimized app on Android,allowing in depth UPay User analysis with advanced visualization.
