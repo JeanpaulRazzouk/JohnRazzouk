@@ -9,7 +9,7 @@ I am Computer Scientist.I very much enjoy fostering new ideas and trying to come
 * 📈 Machine Learning Enthusiast.
 
 * 📫 How to reach me: jeanpaul@jeanpaulrazzouk.com
-* Website: jeanpaulrazzouk.com
+* 🌐 Website: jeanpaulrazzouk.com
 
 <!--
 **JohnRazzouk/JohnRazzouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
