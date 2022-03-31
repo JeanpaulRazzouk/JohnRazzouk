@@ -1,11 +1,11 @@
 ### Hey, I'm Jeanpaul 🦦
 
-I am Computer Scientist.I very much enjoy fostering new ideas and trying to come up with sensible solutions and approaches to broadly relevant problems.
+A motivated developer with 3 years of experience, currently specializing in Java/Kotlin, ASP.NET development and integration. I turn good business ideas into well-planned, well-documented, highly available, secure backend services. My job is to build the stack, create the app, turn it on, and keep it running. Don’t worry about the details. I take care of them. With experience in multiple aspects of modern computing, including programming, systems administration, and support.
 
 * 📱 Developed UPay (V 1.0) app on Android, a Universal Mobile Payment App that works anywhere with forecasting analysis using Machine Learning.
 * 🖥 Developed UCM tablet-optimized app on Android,allowing in depth UPay User analysis with advanced visualization.
 * 🎮 Led the IJP-Dev Team where we Developed "Castaway" - a survival third person game - using Unreal Engine 4.26.
-* 💻 C# Backend Engineer Nerd.
+* 💻 C# Backend Nerd.
 * 📈 Machine Learning Enthusiast.
 
 * 📫 How to reach me: jeanpaul@jeanpaulrazzouk.com
